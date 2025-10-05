@@ -71,7 +71,7 @@ A breakdown by subcategory, displaying:
 ---
 
 ## 🔗 Explore More  
-- 📖 [Read Full Report on Medium]()
+- 📖 [Read Full Report on Medium](https://medium.com/@solomonayubafirst/personal-finance-insights-tracking-spending-savings-and-financial-health-over-time-b9eeaeca8d84)
 - 📊 [View Interactive Dashboard](https://1drv.ms/x/c/be9d36ca1f6bb2c6/Ea2zOKyZKyNEmLMlA2QfONIBrE2Xbk1bzIuGHKNGHY17VQ?e=uGAK22)  
 - 🌐 [My Portfolio](https://www.datascienceportfol.io/solomonayubafirst)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/solomonayuba/)  
