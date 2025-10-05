@@ -9,6 +9,8 @@ Using **Excel** and **Power Query**, I cleaned and transformed over **30,000 tra
 
 📊 [View Interactive Dashboard](https://1drv.ms/x/c/be9d36ca1f6bb2c6/Ea2zOKyZKyNEmLMlA2QfONIBrE2Xbk1bzIuGHKNGHY17VQ?e=uGAK22) 
 
+![Dashboard](https://raw.githubusercontent.com/SolomonAyuba/personal-finance-analysis-insights/f7a12a18d5784b91595d45f872567c70da4e147c/assets/Personal%20Finance%20Dashboard%20-%20by%20Solomon%20Ayuba.png)
+
 ---
 
 ## 🎯 Objective  
@@ -42,6 +44,8 @@ A breakdown by subcategory, displaying:
 - Monthly and yearly spending  
 - Percentage contribution to total expenses  
 - Categories with the highest spikes or unusual transactions  
+
+![Dashboard](https://raw.githubusercontent.com/SolomonAyuba/personal-finance-analysis-insights/f7a12a18d5784b91595d45f872567c70da4e147c/assets/Personal%20Finance%20Dashboard(Detailed%20Expense%20Page)%20by%20Solomon%20Ayuba.png)
 
 ---
 
